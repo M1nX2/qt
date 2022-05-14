@@ -1,0 +1,69 @@
+body{
+	font-family:Arial,sans-serif;
+	font-size:12pt;
+}
+.game{
+	height: 30vh;
+	margin: 10vh auto;
+	margin-bottom:5vh;
+	width: 30vw;
+	min-width: 300px;
+	min-height: 350px;
+}
+.let{
+	box-sizing: border-box;
+	text-align: center;
+	margin: 10px;
+	height: 30px;
+	width: 30px;
+	font-size:20px;
+	border-color:black;
+	padding:0;
+}
+.helpb{
+	box-sizing: border-box;
+	text-align: center;
+	margin: 10px;
+	height: 30px;
+	width: 45px;
+	font-size:20px;
+	border-color:black;
+	font-size:10pt;
+	padding:0
+}
+h2{
+	font-size: 50pt;
+	width: min-content;
+	margin:0px auto;
+}
+.f1{
+	width: 250px;
+	margin: auto;
+}
+.b1{
+	border:0;
+	width:50px;
+	height:50px;
+	background:none;
+}
+#i1{
+	width:50px;
+	height:50px;
+}
+#h3{
+	width:min-content;
+	border:3px solid #4a4d62;
+	margin: 0px auto;
+	background-color:#888888;
+}
+#h4{
+	margin:3vh auto;
+	text-align:center;
+	background-color:#888888;
+	border:3px solid #4a4d62;
+	width:700px;
+}
+.strb{
+	display:inline-block;
+	margin:0.5vh 0;
+}
